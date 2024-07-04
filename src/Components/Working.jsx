@@ -21,7 +21,7 @@ const Working = () => {
           <div className='content'>
             <div className='sub_content'>
               <p className='icon'>
-                <img src={image1} alt='image' className='icon_image' />
+                <img src={image1} alt='icon1' className='icon_image' />
               </p>
 
               <h6>Select Your Role And</h6>
@@ -33,7 +33,7 @@ const Working = () => {
           </div>
           <div className='content'>
             <div className='sub_content_1'>
-              <p className='icon'><img src={image2} alt='image' className='icon_image' /></p>
+              <p className='icon'><img src={image2} alt='icon2' className='icon_image' /></p>
 
               <h6>Buyers Post Your</h6>
               <h6>Requirements</h6>
@@ -43,7 +43,7 @@ const Working = () => {
           </div>
           <div className='content'>
             <div className='sub_content'>
-              <p className='icon'> <img src={image3} alt='image' className='icon_image' /></p>
+              <p className='icon'> <img src={image3} alt='icon3' className='icon_image' /></p>
 
               <h6>Review, Select and</h6>
               <h6>Contact the Best Suppliers</h6>
@@ -56,7 +56,7 @@ const Working = () => {
         <div className='row_content_1'>
           <div className='content'>
             <div className='sub_content_1'>
-              <p className='icon'> <img src={image4} alt='image' className='icon_image' /></p>
+              <p className='icon'> <img src={image4} alt='icon4' className='icon_image' /></p>
 
               <h6>Suppliers Complete your</h6>
               <h6>profile and get notified for</h6>
@@ -68,7 +68,7 @@ const Working = () => {
           </div>
           <div className='content'>
             <div className='sub_content'>
-              <p className='icon'> <img src={image5} alt='image' className='icon_image' /></p>
+              <p className='icon'> <img src={image5} alt='icon5' className='icon_image' /></p>
 
               <h6>Contact to Buyers and Share</h6>
               <h6>your Quote for the service</h6>
@@ -78,7 +78,7 @@ const Working = () => {
           </div>
           <div className='content'>
             <div className='sub_content_1'>
-              <p className='icon'> <img src={image6} alt='image' className='icon_image' /></p>
+              <p className='icon'> <img src={image6} alt='icon6' className='icon_image' /></p>
 
               <h6>Both the Parties can Connect</h6>
               <h6>and Make Business Leave a</h6>

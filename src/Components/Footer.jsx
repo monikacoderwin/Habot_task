@@ -33,9 +33,9 @@ const Footer = () => {
                     </div>
                     <div className='footer_right'>
                         <img src={linkedin} alt='linkedin' className='social_image' />
-                        <img src={twitter} alt='linkedin' className='social_image' />
-                        <img src={facebook} alt='linkedin' className='social_image' />
-                        <img src={instagram} alt='linkedin' className='social_image' />
+                        <img src={twitter} alt='twitter' className='social_image' />
+                        <img src={facebook} alt='facebook' className='social_image' />
+                        <img src={instagram} alt='instagram' className='social_image' />
                     </div>
                 </div>
             </div>
